@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Code reviews are hard.
+title: Getting in the habit is hard.
 type: post
 category: iplayer
 summary: Why is it hard to encourage the practice of code reviewing and how has Github helped?
@@ -39,7 +39,7 @@ Last month (January 2014) the team made 734 commits across 327 pull requests. Ea
 
 The github pulse dashboard speaks for itself:
 
-![](/assets/code-reviews-are-hard1.png)
+![](/assets/getting-in-the-habit-is-hard1.png)
 
 ## Patterns
 It was hard to understand why code reviews are such a hard habit for the team to pick up. Clearly code reviews are a good thing yet we couldnt get into the flow of actually performing the review.
